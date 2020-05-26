@@ -1,2 +1,2 @@
 # modernnorthern
-Source code for the MODERNNORTHERN virtual art hall project. Will be update the coming days.
+Source code for the MODERNNORTHERN virtual art hall project. Will be updated the coming days.
